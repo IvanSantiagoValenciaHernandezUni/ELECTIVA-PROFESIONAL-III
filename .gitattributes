@@ -1,1 +1,2 @@
 Electiva[[:space:]]3/Semana5/Archivos/Examen_Saber_11_20191.csv filter=lfs diff=lfs merge=lfs -text
+*.csv filter=lfs diff=lfs merge=lfs -text
